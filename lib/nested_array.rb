@@ -49,5 +49,4 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
   new_value = "Tiny Green"
   matrix_update = assembled_matrix[0][2][new_value]
-  return assembled_matrix
 end
