@@ -21,7 +21,8 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
   
   assembled_matrix = [
-    
+    ENNET_HOUSE,
+    ENFIELD_TENNIS_ACADEMY
     ]
 end
 
