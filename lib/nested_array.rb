@@ -21,8 +21,8 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
   
   assembled_matrix = [
-    ENNET_HOUSE,
-    ENFIELD_TENNIS_ACADEMY
+    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"],
+    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
     ]
 end
 
