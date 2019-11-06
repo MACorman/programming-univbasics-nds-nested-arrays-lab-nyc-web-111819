@@ -47,7 +47,6 @@ end
 def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
-  
-  assembled_matrix[0] = ["Don Gately", "Joelle van Dyne", "Tiny Green", "Kate Gompert", "Bruce Green"]
+  assembled_matrix[0][2] = "Tiny Green"
   return assembled_matrix
 end
