@@ -31,7 +31,7 @@ def array_literal_matrix
   # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
   # alphabetically by the first character.
   
-  array_literal_matrix
+  array_literal_matrix = 
 end
 
 def matrix_lookup(matrix, row, column)
