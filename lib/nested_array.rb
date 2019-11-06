@@ -49,8 +49,8 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
   
   local_copy_of_matrix = assembled_matrix.dup
-  matrix_update = local_copy_of_matrix[0][2]["Tiny Ewell"]
-  return matrix_update
+  local_copy_of_matrix[0][2] = "Tiny Ewell"
+  return local_copy_of_matrix
   
   
 end
