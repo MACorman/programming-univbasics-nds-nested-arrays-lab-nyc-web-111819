@@ -32,11 +32,11 @@ def array_literal_matrix
   # alphabetically by the first character.
   
   array_literal_matrix = [
-    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"],
-    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
+    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"].sort,
+    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"].sort
     ]
     
-    array_literal_matrix = 
+    
 end
 
 def matrix_lookup(matrix, row, column)
